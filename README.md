@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angadiranjeeta&label=Profile%20views&color=0e75b6&style=flat" alt="angadiranjeeta" /> </p>
 
-- 🔭 I’m currently working on **Anti-UAV**
+
 
 - 🌱 I’m currently learning **Computer Vision,NLP,Deep Learning**
 
